@@ -1,4 +1,4 @@
-# species_biodiversity
+# species-biodiversity
 Calculate species richness and species category distribution within the US National Parks using Python, pandas, matplotlib, and seaborn.
 
 ### Available Jupyter Notebooks
